@@ -3,7 +3,7 @@
 
 - 🌎Morando em **Olinda PE**
 
-- 🌱 Atualmente estou aprendendo **Java,SQL,NEO**
+- 🌱 Atualmente estou aprendendo **Java,SQL**
 
 - 💻Estudante de **ADS**
 
