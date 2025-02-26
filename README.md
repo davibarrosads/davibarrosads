@@ -3,9 +3,9 @@
 
 - 🌎Morando em **Olinda PE**
 
-- 🌱 Atualmente estou aprendendo **Java,SQL**
+- 🌱 Atualmente estou aprendendo **Java,SQL,HTML,Node,React**
 
-- 💻Estudante de **ADS**
+- 💻Estudante de **Analise e Desenvolvimento de Sistemas**
 
 - 📫 Como entrar em contato comigo **davibarrosads@outlook.com.br**
 
